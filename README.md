@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-My first project on c#.. Embark on a cognitive journey with the Stroop Effect Game, marking my inaugural venture into the realm of C# programming. This project represents not only a significant milestone in my coding journey but a testament to the versatility of C# as a language capable of delivering engaging and unconventional gaming experiences.
+My first project on c# for my programming I class. Embark on a cognitive journey with the Stroop Effect Game, marking my inaugural venture into the realm of C# programming. This project represents not only a significant milestone in my coding journey but a testament to the versatility of C# as a language capable of delivering engaging and unconventional gaming experiences.
 
 ## Overview:
 
