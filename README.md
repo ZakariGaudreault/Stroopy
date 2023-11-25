@@ -26,4 +26,4 @@ The Stroop Effect Game stands as a captivating exploration of cognitive challeng
 
 ## How to play:
 
-Clone or download the repository and the launch the application. You will be greeted with the instructions in the menu
+Clone or download the repository and then launch the application. You will be greeted with the instructions in the menu
